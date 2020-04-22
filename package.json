@@ -1,7 +1,7 @@
 {
-  "name": "express-server-status",
+  "name": "express-server-status-minus-git",
   "version": "1.0.4",
-  "description": "Get a quick overview of the status of an express server (uptime, version, git sha, stats)",
+  "description": "Get a quick overview of the status of an express server (uptime, version, stats)",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenCollective/express-server-status.git"
+    "url": "git+https://github.com/sayleenaik/express-server-status-minus-git.git"
   },
   "keywords": [
     "express",
@@ -22,12 +22,12 @@
     "uptime",
     "version"
   ],
-  "author": "Xavier Damman (@xdamman)",
+  "author": "Saylee Naik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OpenCollective/express-server-status/issues"
+    "url": "https://github.com/sayleenaik/express-server-status-minus-git/issues"
   },
-  "homepage": "https://github.com/OpenCollective/express-server-status#readme",
+  "homepage": "https://github.com/sayleenaik/express-server-status-minus-git#readme",
   "dependencies": {
     "express": "^4.13.3",
     "moment": "^2.11.1"
