@@ -4,8 +4,7 @@ Get a quick overview of the status of an express server (uptime, version, stats)
 A forked project from https://github.com/opencollective/express-server-status
 ## Installation
 
-    npm install express-server-status-minus-git --save
-    
+    npm install express-server-status-minus-git --save:
 ## Usage
 
     var serverStatus = require('express-server-status-minus-git');
